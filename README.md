@@ -1,6 +1,8 @@
 # tool_JHURLAnalyseTool
 一款截取网络请求的url展示类工具
 
+#已pod化
+如若集成到项目中，请在teminal中输入  pod search JHURLAnalyseTool
 
 # Overview
 
@@ -19,3 +21,5 @@
 #使用方法
 
 真机调试，晃动手机会模态show出JHURLAnalyseListViewController页面。
+
+
