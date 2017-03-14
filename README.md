@@ -1,5 +1,5 @@
 # tool_JHURLAnalyseTool
-一款截取网络请求的url展示类工具
+一款截取网络请求的url展示类工具  参考链接http://www.jianshu.com/p/c9462b33b4db
 
 #已pod化
 如若集成到项目中，请在teminal中输入  pod search JHURLAnalyseTool
