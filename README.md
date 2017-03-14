@@ -2,6 +2,7 @@
 一款截取网络请求的url展示类工具  
 参考链接http://www.jianshu.com/p/c9462b33b4db
 
+
 ##已pod化
 
 如若集成到项目中，请在teminal中输入  pod search JHURLAnalyseTool
@@ -15,12 +16,15 @@
 
 ##注册方法
 
+
 ``` objc
 [NSURLProtocol registerClass:[JHURLAnalyseProtocol class]];
 [[JHURLAnalyseManager defaultManager] registerUrlAnalyse];
 ```
 
+
 ##使用方法
+
 
 真机调试，晃动手机会模态show出JHURLAnalyseListViewController页面。
 
